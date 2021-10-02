@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @ven0mouspo1son
-- 👀 I’m interested in Web Developtment, Web Designer, Graphic Designer, Game Creator.
-- 🌱 I’m currently learning ...Programming Languages
+[=====================================================================================================================================================================]
+-✋-Hi, I'm ven0mouspo1son,
+-🏫-Currently I'm student in High School for Computer Tehnology.
+-📚-I'm learing Software and Hardware, and Programming Languages.Several of them is C++, Java, Phyton.
+-📚-I joined Github, to learn new stuff like other programming languages, hardware, software...
+[=====================================================================================================================================================================]
+-✉️-If u want to collaborate with me, contact me on:
+                                                                    --Gmail:maybedobrin@gmail.com--
+                                                                        --Discord:dobrin#5759--
 
-<!---
-ven0mouspo1son/ven0mouspo1son is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
